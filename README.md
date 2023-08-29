@@ -13,8 +13,7 @@ compiled and tested on a Windows 11 Operating System.
 
 2.  Select the option for server as shown below then click "Next".
 
-![](media/image3.png){width="6.268055555555556in"
-height="5.3in"}
+![](media/image3.png)
 
 3.  Click Next until the installation and finished.
 
