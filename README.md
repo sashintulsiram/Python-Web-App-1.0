@@ -121,18 +121,18 @@ generated](media/image16.png)
 
 1.  Start Web Application --
 
-    a.  From CMD, open the directory for the cloned GitHub repository
+    1.  From CMD, open the directory for the cloned GitHub repository
         and run the command: cd webapp
-    b.	Run the command to start the web application which will activate the virtual environment and run the python web application file: app.bat
+    2.	Run the command to start the web application which will activate the virtual environment and run the python web application file: app.bat
 ![image](https://github.com/sashintulsiram/Python-Web-App-1.0/assets/50657550/a321c2bd-3712-4317-b2c9-fc843f64cf29)
 
-    b. The web application will be served on http://localhost:5000. Open this URL in your web browser to access the application.
+    3. The web application will be served on http://localhost:5000. Open this URL in your web browser to access the application.
 ![image](https://github.com/sashintulsiram/Python-Web-App-1.0/assets/50657550/72120bd8-4635-4369-853b-d7be95b20a79)
 
-    c. To stop the web application, go back to the CMD terminal where you have run the app.bat command from. Type CTRL+C and then ‘y’. 
+    4. To stop the web application, go back to the CMD terminal where you have run the app.bat command from. Type CTRL+C and then ‘y’. 
 ![image](https://github.com/sashintulsiram/Python-Web-App-1.0/assets/50657550/08cd1ae1-d078-480e-9af7-dd3dea389783)
 
-    d. Run the command to deactivate the virtual environment: deactivate
+    5. Run the command to deactivate the virtual environment: deactivate
  ![image](https://github.com/sashintulsiram/Python-Web-App-1.0/assets/50657550/8de52fe0-54e6-4995-aa0f-d7b28f48c1cc)
 
 
