@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.aaff7da5.css",
+    "main.js": "./static/js/main.bdcc509e.js",
+    "static/js/988.5be575f0.chunk.js": "./static/js/988.5be575f0.chunk.js",
+    "static/media/HeroImage.svg": "./static/media/HeroImage.afac7bfbaec514d0707d.svg",
+    "static/media/skhokho.jpeg": "./static/media/skhokho.4bbd801fb3003dedfe1d.jpeg",
+    "static/media/dragon.jpeg": "./static/media/dragon.2ad8d0a2b705278a3cba.jpeg",
+    "static/media/olympian.jpeg": "./static/media/olympian.189ee96144d357cab414.jpeg",
+    "static/media/logo.svg": "./static/media/logo.6beb4a70b2f0fe9f4a26c760bcb355f8.svg",
+    "static/media/App Dev Icon.svg": "./static/media/App Dev Icon.f86bcca889a7f09144d017de4e02a012.svg",
+    "static/media/Web Dev Icon.svg": "./static/media/Web Dev Icon.5346dd33936453071f432f0b44466d5c.svg",
+    "static/media/Blockchain Icon.svg": "./static/media/Blockchain Icon.11012faeb72f6e82a5a107727cbebb89.svg",
+    "static/media/UX Icon.svg": "./static/media/UX Icon.249cf5d141feebef2dda510c8eb43e65.svg",
+    "index.html": "./index.html",
+    "main.aaff7da5.css.map": "./static/css/main.aaff7da5.css.map",
+    "main.bdcc509e.js.map": "./static/js/main.bdcc509e.js.map",
+    "988.5be575f0.chunk.js.map": "./static/js/988.5be575f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaff7da5.css",
+    "static/js/main.bdcc509e.js"
+  ]
+}
