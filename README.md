@@ -153,58 +153,39 @@ generated](media/image16.png)
     Resources, Financial Services.
 
 ![A screenshot of a computer Description automatically
-generated](media/image20.png){width="6.268055555555556in"
-height="4.446527777777778in"}
+generated](media/image20.png)
 
 ## Using Sort Button
 
 1.  From the webpage, you will be able to sort the Trusted Brands
     retrieved from the API in alphabetical order.
 
-![](media/image20.png){width="6.268055555555556in"
-height="4.446527777777778in"}
+![](media/image20.png)
 
 ![A screenshot of a website Description automatically
-generated](media/image21.png){width="6.268055555555556in"
-height="3.9166666666666665in"}
+generated](media/image21.png)
 
 ## Illustration of Web Application
 
 ![A person looking at the camera Description automatically
-generated](media/image22.png){width="6.268055555555556in"
-height="3.14375in"}
-
+generated](media/image22.png)
 ![A screenshot of a computer Description automatically
-generated](media/image23.png){width="6.268055555555556in"
-height="3.0395833333333333in"}
-
+generated](media/image23.png)
 ![A screenshot of a website Description automatically
-generated](media/image24.png){width="6.268055555555556in"
-height="3.345138888888889in"}
-
+generated](media/image24.png)
 ![A screenshot of a video Description automatically
-generated](media/image25.png){width="6.268055555555556in"
-height="3.6756944444444444in"}
-
+generated](media/image25.png)
 ![A screenshot of a computer Description automatically
-generated](media/image26.png){width="6.268055555555556in"
-height="3.792361111111111in"}
-
+generated](media/image26.png)
 ![A group of logos on a white background Description automatically
-generated](media/image27.png){width="6.268055555555556in"
-height="3.597916666666667in"}
-
+generated](media/image27.png)
 ![A purple background with white text Description automatically
-generated](media/image28.png){width="6.268055555555556in"
-height="2.5069444444444446in"}
-
+generated](media/image28.png)
 ![A screenshot of a computer Description automatically
-generated](media/image20.png){width="6.268055555555556in"
-height="4.446527777777778in"}
-
+generated](media/image20.png)
 ![A screenshot of a website Description automatically
-generated](media/image21.png){width="6.268055555555556in"
-height="3.9166666666666665in"}
+generated](media/image21.png)
+
 
 # Contact Information
 
