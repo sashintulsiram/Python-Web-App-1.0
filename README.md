@@ -20,16 +20,14 @@ compiled and tested on a Windows 11 Operating System.
 4.  A configuration wizard for the database will appear thereafter. Use
     the default settings for networking.
 
-![](media/image4.png){width="6.268055555555556in"
-height="5.3805555555555555in"}
+![](media/image4.png)
 
 5.  For account and roles, enter the below root password:
 
     a.  Root password: Fu11St@ckCh@113ng3
 
 ![A screenshot of a computer Description automatically
-generated](media/image5.png){width="6.268055555555556in"
-height="5.305555555555555in"}
+generated](media/image5.png)
 
 6.  Thereafter, click next until the configuration has completed.
 
@@ -48,46 +46,38 @@ height="5.305555555555555in"}
 5.  Replicate the below configuration. Select the button named "Store in
     vault" and enter the password for the root account then select OK.
 
-![](media/image6.png){width="6.268055555555556in"
-height="4.559027777777778in"}
+![](media/image6.png)
 
 6.  After adding a connection, you will see the connection added under
     MySQL connections. Select this connection.
 
-![](media/image7.png){width="6.142199256342957in"
-height="6.625574146981627in"}
+![](media/image7.png)
 
 7.  From the MySQL connection, select the Data Import/Restore option for
     the menu on the left.
 
-![](media/image8.png){width="4.525392607174103in"
-height="6.233873578302712in"}
+![](media/image8.png)
 
 8.  Select the Import from dump project option and select the folder
     with the downloaded Database Export from GitHub.
 
-![](media/image9.png){width="6.268055555555556in"
-height="3.334722222222222in"}
+![](media/image9.png)
 
 9.  In the Default Schema field, click on the New button then enter in
     st_python_webapp01_db01 for the Default Schema name. Click on the
     highlighted schema as shown in the image below. This will update the
     schema objects table.
 
-![](media/image10.png){width="6.268055555555556in"
-height="3.314583333333333in"}
+![](media/image10.png)
 
 10. Next, click on the tab at the top named Import Progress and select
     the button to Start Import.
 
-![](media/image11.png){width="6.268055555555556in"
-height="3.303472222222222in"}
-
+![](media/image11.png)
 11. You will then be able to access the database from MySQL workbench
     and view the data stored in the database.
 
-![](media/image12.png){width="6.268055555555556in"
-height="3.2215277777777778in"}
+![](media/image12.png)
 
 ## Install NodeJS 20.5.1
 
@@ -100,32 +90,28 @@ height="3.2215277777777778in"}
 
 ## Clone the GitHub repository
 
-1.  https://github.com/sashintulsiram/Python-Web-App-1.0.git
+1.  [https://github.com/sashintulsiram/Python-Web-App-1.0.git](https://github.com/sashintulsiram/Python-Web-App-1.0/tree/build)
 
 ## Create a virtual environment
 
 1.  From CMD, open the directory for the cloned GitHub repository and
     run the command: cd webapp
 
-![](media/image13.png){width="6.268055555555556in"
-height="2.2631944444444443in"}
+![](media/image13.png)
 
 2.  Run the command: python -m venv venv
 
-![](media/image14.png){width="6.268055555555556in"
-height="0.6263888888888889in"}
+![](media/image14.png)
 
 3.  Run the command: venv\\Scripts\\activate
 
 ![A black screen with white text Description automatically
-generated](media/image15.png){width="6.268055555555556in"
-height="0.9097222222222222in"}
+generated](media/image15.png)
 
 4.  Run the command: pip install -r requirements.txt
 
 ![A computer screen shot of a black screen Description automatically
-generated](media/image16.png){width="6.268055555555556in"
-height="2.279166666666667in"}
+generated](media/image16.png)
 
 5.  Run the command: deactivate
 
@@ -133,34 +119,22 @@ height="2.279166666666667in"}
 
 ## Start Web Application
 
-1.  Start Python backend --
+1.  Start Web Application --
 
     a.  From CMD, open the directory for the cloned GitHub repository
         and run the command: cd webapp
+    b.	Run the command to start the web application which will activate the virtual environment and run the python web application file: app.bat
+![image](https://github.com/sashintulsiram/Python-Web-App-1.0/assets/50657550/a321c2bd-3712-4317-b2c9-fc843f64cf29)
 
-    b.  Run the command to start virtual environment:
-        venv\\Scripts\\activate
+    b. The web application will be served on http://localhost:5000. Open this URL in your web browser to access the application.
+![image](https://github.com/sashintulsiram/Python-Web-App-1.0/assets/50657550/72120bd8-4635-4369-853b-d7be95b20a79)
 
-    c.  Run the command to start Python backend with REST API: python
-        main.py
+    c. To stop the web application, go back to the CMD terminal where you have run the app.bat command from. Type CTRL+C and then ‘y’. 
+![image](https://github.com/sashintulsiram/Python-Web-App-1.0/assets/50657550/08cd1ae1-d078-480e-9af7-dd3dea389783)
 
-![](media/image17.png){width="6.268055555555556in"
-height="1.9375in"}
+    d. Run the command to deactivate the virtual environment: deactivate
+ ![image](https://github.com/sashintulsiram/Python-Web-App-1.0/assets/50657550/8de52fe0-54e6-4995-aa0f-d7b28f48c1cc)
 
-2.  Start React frontend --
-
-    a.  Open a new CMD terminal window, open the directory for the
-        cloned GitHub repository and run the command: cd react-app
-
-    b.  Run the command to start React frontend: npm start
-
-![A screenshot of a computer program Description automatically
-generated](media/image18.png){width="6.268055555555556in"
-height="1.3305555555555555in"}
-
-![A screen shot of a computer Description automatically
-generated](media/image19.png){width="5.150446194225721in"
-height="2.7335706474190724in"}
 
 ## Using Filter Search 
 
