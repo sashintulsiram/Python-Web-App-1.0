@@ -4,41 +4,6 @@
 Please refer to the Documentation folder with contains a Word Document named "Sashin Tulsiram - Full Stack Developer Challenge - ReadMe". 
 
 
-# Table of Contents {#table-of-contents .TOC-Heading}
-
-[Introduction [2](#introduction)](#introduction)
-
-[Application Prerequisites
-[2](#application-prerequisites)](#application-prerequisites)
-
-[Set Up MySQL Server [2](#set-up-mysql-server)](#set-up-mysql-server)
-
-[Set up MySQL Workbench and import database
-[4](#set-up-mysql-workbench-and-import-database)](#set-up-mysql-workbench-and-import-database)
-
-[Install NodeJS 20.5.1
-[9](#install-nodejs-20.5.1)](#install-nodejs-20.5.1)
-
-[Install Python 3.11.x
-[9](#install-python-3.11.x)](#install-python-3.11.x)
-
-[Clone the GitHub repository
-[10](#clone-the-github-repository)](#clone-the-github-repository)
-
-[Create a virtual environment
-[10](#create-a-virtual-environment)](#create-a-virtual-environment)
-
-[Test Web Application
-[11](#test-web-application)](#test-web-application)
-
-[Start Web Application
-[11](#start-web-application)](#start-web-application)
-
-[Illustration of Web Application
-[12](#illustration-of-web-application)](#illustration-of-web-application)
-
-[Contact Information [16](#contact-information)](#contact-information)
-
 # Introduction
 
 This project was developed according to the Full Stack Development
