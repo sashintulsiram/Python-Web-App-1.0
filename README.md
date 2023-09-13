@@ -79,10 +79,6 @@ generated](media/image5.png)
 
 ![](media/image12.png)
 
-## Install NodeJS 20.5.1
-
-1.  Download and install NodeJS:
-    <https://nodejs.org/en/download/current>
 
 ## Install Python 3.11.x
 
@@ -90,7 +86,7 @@ generated](media/image5.png)
 
 ## Clone the GitHub repository
 
-1.  [https://github.com/sashintulsiram/Python-Web-App-1.0.git](https://github.com/sashintulsiram/Python-Web-App-1.0/tree/build)
+1.  [https://github.com/sashintulsiram/Python-Web-App-1.0.git](https://github.com/sashintulsiram/Python-Web-App-1.0/)
 
 ## Create a virtual environment
 
